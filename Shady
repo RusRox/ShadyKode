@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario Alumnado</title>
+    
+</head>
+<body>
+    <div id="contenido">
+        <div id="cabecera" >
+            <h1>Apuntes de 2ºSMR</h1>
+            </div>
+
+        <div id="secundario">
+            <br>
+        <br>
+        <div id="menuvertical" >
+            <a href="index.html" >Menu</a>
+            <a href="formulario.html" >Formulario</a>
+            <a href="tabla.html" >Tabla</a>
+            <a href="Clase.html" >Aula de FP</a>
+            </div>
+        </div>
+        
+        <div id="primario">
+            
+                <h1 class="principal-h1">Formulario</h1>
+
+                <div id="principal"  > 
+                <p>Esta página ha sido realizada por un alumno de 2º curso del CFGM SMR para poner en práctica los conocimientos adquiridos en el tema de creación de páginas web con HTML y usando cascada de estilos CSS.</p>
+                <br>
+                <p>Los conceptos aprendidos han sido:</p>
+                </div>
+                <ul>
+                    <li>Etiquetas y formateo básico</li>
+                    <li>Enlaces</li>
+                    <li>Tablas</li>
+                    <li>Formularios</li>
+                    <li>Formateo con CSS</li>
+                    <li>Creación de contenedores</li>
+                </ul>
+            
+        </div>
+        <div id="pie">
+            <p >Ruslan Ledyayev</p>
+        </div>
+    </div>
+</body>
+</html>
